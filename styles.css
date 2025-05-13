@@ -1,0 +1,34 @@
+h1{
+	color:black;
+	border-bottom:solid;
+	border-bottom-color:red;
+}
+
+
+h2{
+	color:red;
+	border-bottom:solid;
+	border-bottom-color:black;
+}
+
+h3{
+	color:red;
+}
+
+table border{
+	
+}
+
+table{
+	width:99%
+}
+
+th{
+	color:red;
+	background-color:black;
+}
+
+td{
+	font-family:cursive;
+	color:black;
+}
